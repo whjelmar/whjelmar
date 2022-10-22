@@ -1,7 +1,12 @@
 <h1>Hi I'm Walter Hjelmar</h1>
-<h3 align="center">Strategy ​ Digital Operating Models ​ Enterprise Architecture ​ Data Architecture and DataOps ​ Business and Service Management</h3>
 
-Walter has over 30 years of IT experience, primarily focused on the financial sector. He has held senior posts in strategy, engineering, operations, program management, web architecture and enterprise management for Hedge Funds, Investment Banks and Wealth Management firms. 
+- Strategy
+- Digital Operating Models
+- Enterprise Architecture
+- Data Architecture and DataOps
+- Business and Service Management
+
+I have over 30 years of IT experience, primarily focused on the financial sector. He has held senior posts in strategy, engineering, operations, program management, web architecture and enterprise management for Hedge Funds, Investment Banks and Wealth Management firms. 
 
 Today, I specialize in technology strategy, Digital Operating Models, service management and large complex cross-platform technical program management and run the Consulting Practice for Synechron North America.
 
