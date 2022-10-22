@@ -28,9 +28,9 @@ Today, I specialize in technology strategy, Digital Operating Models, service ma
 
 - Interim Head of end-user computing team for top Hedge Fund.
 
-- Designed a program to measure software development quality across all lines of business  for a tier 1 bank which normalized the results for multiple SDLC methodologies and supporting tool chains.
+- Designed a program to measure software development quality across all lines of business  for a tier 1 bank which normalized the results for multiple SDLC methodologies and supporting tool chains
 
- -Ran a global program for a leading tier 1 bank to assess 13 of their most  mission critical applications to produce a predictive risk analysis of the application platforms, leading to improved security and reduced risk.
+- Ran a global program for a leading tier 1 bank to assess 13 of their most  mission critical applications to produce a predictive risk analysis of the application platforms, leading to improved security and reduced risk.
 
 - Managed staffing and budgeting for team, spanning six countries. Responsible for Level 1 & 2 support of over 8,000 internal and external Apache/Tomcat and IIS/ASP.NET web applications and the load balancing and proxy infrastructure that supports them.
 
