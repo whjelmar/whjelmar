@@ -1,6 +1,6 @@
-<h1>Hi I'm Walter Hjelmar</h1>
+<h1>Walter Hjelmar</h1>
 
-- Strategy
+- IT Strategy
 - Digital Operating Models
 - Enterprise Architecture
 - Data Architecture and DataOps
