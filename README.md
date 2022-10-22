@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Walter Hjelmar</h1>
+<h1>Hi I'm Walter Hjelmar</h1>
 <h3 align="center">Strategy ​ Digital Operating Models ​ Enterprise Architecture ​ Data Architecture and DataOps ​ Business and Service Management</h3>
 
 Walter has over 30 years of IT experience, primarily focused on the financial sector. He has held senior posts in strategy, engineering, operations, program management, web architecture and enterprise management for Hedge Funds, Investment Banks and Wealth Management firms. 
@@ -35,9 +35,8 @@ Today, I specialize in technology strategy, Digital Operating Models, service ma
 
 - Engineered software distribution, fault and performance monitoring system (supporting 30,000+ desktops and 4,000+ heterogeneous servers) for tier 1 insurance firm.
 
-Lead Architect for project to convert 2,000-seat video-based trading floor into the first AIX-based trading floor on Wall Street.
+- Lead Architect for project to convert 2,000-seat video-based trading floor into the first AIX-based trading floor on Wall Street.
 
-***
 
 ### Contact: <br/>
 
