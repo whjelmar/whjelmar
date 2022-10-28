@@ -1,10 +1,14 @@
 <h1>Walter Hjelmar</h1>
 
-- IT Strategy
-- Digital Operating Models
-- Enterprise Architecture
-- Data Architecture and DataOps
-- Business and Service Management
+<b>
+<ul>
+  <li>IT Strategy</li>
+  <li>Digital Operating Models</li>
+  <li>Enterprise Architecture</li>
+  <li>Data Architecture and DataOps</li>
+  <li>Business and Service Management</li>
+</ul>
+</b>
 
 I have over 30 years of IT experience, primarily focused on the financial sector. He has held senior posts in strategy, engineering, operations, program management, web architecture and enterprise management for Hedge Funds, Investment Banks and Wealth Management firms. 
 
