@@ -1,6 +1,6 @@
 <h1>Walter Hjelmar</h1>
 
-<h2>Current: Head of Consulting for North America for Synechron</h2>
+<h2>Head of Consulting for North America for Synechron</h2>
 <b>
 <ul>
   <li>IT Strategy</li>
