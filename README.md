@@ -1,6 +1,6 @@
 <h1>Walter Hjelmar</h1>
 
-<h2>Head of Synechron Consulting for North America</h2>
+<h2>VP of Platforms and Data Services ag Group 1001</h2>
 <b>
 <ul>
   <li>IT Strategy</li>
