@@ -1,6 +1,6 @@
 <h1>Walter Hjelmar</h1>
 
-<h2>VP of Platforms and Data Services at Group 1001</h2>
+<h2>VP of Cloud, Identity, Access and Data at Group 1001</h2>
 <b>
 <ul>
   <li>IT Strategy</li>
